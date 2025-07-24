@@ -1,0 +1,89 @@
+Over the past 6 months, the PPMA Team has consistently gone above and beyond — not just delivering features, but transforming how our 
+customers engage with us digitally.
+PPMA built our own Track Package page, replacing a third-party tool and giving customers a seamless, branded tracking experience — no logins, no friction.
+ It now gets over 14,000 visits a day, and also opens a new door for product recommendations and upsell.
+On mobile, they launched transactional push notifications, keeping customers informed in real time. Over 225,000 messages were sent — reducing "Where Is My Order"
+ queries and boosting user trust.
+PPMA also made login simpler and safer with Google Sign-In, handling around 12,000 logins weekly. This reduced user drop-offs and made account access much easier.
+Security was another big focus — implemented Invisible reCAPTCHA across key flows, silently blocking bots without affecting genuine users.
+They didn’t stop there. The homepage banner was revamped into a dynamic carousel — making space for more promotions and giving the marketing team full control,
+ all without developer help.
+PPMA also partnered with Data Science to launch the Spark AI Chatbot, handling order queries instantly and reducing pressure on support teams.
+Last but not least Product Detail Page redesign improved layout, media, and event tracking — creating a smoother shopping experience and enabling smarter,
+data-driven decisions.
+
+. Problem Statement
+Across multiple digital areas, the user experience and operational efficiency were falling short due to:
+
+Third-party dependencies for package tracking that disrupted the customer journey and limited control.
+
+Lack of real-time communication for order updates on mobile apps, leading to WISMO (Where is my order?) queries.
+
+Cumbersome login and registration flows causing user drop-offs.
+
+Security vulnerabilities with visible CAPTCHA challenges and bot attacks.
+
+Static homepage banners that limited promotional flexibility.
+
+Overloaded support teams due to repetitive user queries.
+
+Outdated product detail pages lacking engagement and actionable insights.
+
+🛠️ 2. How and What We Did to Overcome It
+The PPMA Team:
+
+Identified critical pain points through cross-functional discussions, analytics, and customer feedback.
+
+Took ownership to build solutions in-house — reducing vendor reliance and increasing control.
+
+Collaborated with Data Science, Marketing, and Engineering for seamless execution.
+
+Implemented best-in-class tools and frameworks like:
+
+Google OAuth 2.0 for login
+
+Invisible reCAPTCHA for security
+
+Blueshift for mobile notifications
+
+Bloomreach CMS for marketing agility
+
+FullStory & GA4 for deep analytics
+
+Focused heavily on usability, scalability, and future-readiness, ensuring all solutions could evolve with business needs.
+
+💡 3. The Solution (Key Initiatives)
+Track Package Page
+→ Built in-house with seamless email access, personalized upsell widgets, and 14,000+ daily users.
+
+Transactional Push Notifications
+→ Sent 225,000+ real-time updates via native push, reducing email dependency and increasing transparency.
+
+Google Social Sign-In
+→ Simplified login with 12,000+ weekly Google logins, improving conversion and reducing friction.
+
+Invisible reCAPTCHA
+→ Secured critical flows with zero friction, blocking bots while ensuring smooth user experience.
+
+Homepage Carousel Banner
+→ Replaced static banners with a dynamic carousel + CMS integration, giving Marketing full control.
+
+Spark AI Chatbot
+→ Delivered intelligent, 24/7 self-service on FAQs and order-related queries, reducing ticket volume.
+
+PDP UI Redesign with Enhanced Analytics
+→ Improved visual layout and added deep tracking for user interactions, enabling data-driven optimization.
+
+🌟 4. Conclusion
+In just 6 months, the PPMA Team delivered measurable improvements in:
+
+User experience
+
+Operational efficiency
+
+Security
+
+Marketing agility
+
+Revenue opportunities
+
